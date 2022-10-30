@@ -1,0 +1,3 @@
+/home/zu/university/cs23820/workshop1/cmake-build-debug/CMakeFiles/workshop1.dir
+/home/zu/university/cs23820/workshop1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zu/university/cs23820/workshop1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

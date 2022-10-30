@@ -1,0 +1,12 @@
+//to compile
+gcc -ansi -fno-builtin -o first first.c functions.c
+//to run
+./first
+//to compile with assumptions
+gcc -ansi -o first first.c functions.c
+//warning messages
+warning: incompatible implicit declaration of built-in function ‘printf’ [-Wbuiltin-declaration-mismatch]
+//check code against c version
+-std=??? CL option
+
+-werror converts all warnings to hard error messages
